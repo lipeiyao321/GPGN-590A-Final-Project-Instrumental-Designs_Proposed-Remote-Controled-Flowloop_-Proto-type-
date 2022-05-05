@@ -22,6 +22,12 @@ The initial project testing consists first to run various tests within the confi
 ## Cost: 
 $200-250
 
+## Code explaination:
+- [x] the "8ModRelayTest_DelayedOn_OneAtTime" is test of basic implementations of relay. delay time can be altered within the script.
+- [x] the "Project23_Internet_Controlled_LED" is the basic function to introduce the functionality of internet control.
+- [x] the "8ModRelayTest_FIreFighter" is the code to open/close each individual valve with certain time delay via internet.
+- [X] the "Simul_Internet_Controlled_Valves" is the code to open/close all valves simultinuous via internet(ethernet).
+
 ## Implementation plan (material check):
 - [ ] Network (loop) of pvc pipes; straight pipes cut to various different lengths, joints, connectors 
 - [ ] A water-filled reservoir tank
