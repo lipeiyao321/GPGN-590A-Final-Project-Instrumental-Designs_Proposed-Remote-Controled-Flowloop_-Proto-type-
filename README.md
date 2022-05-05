@@ -41,18 +41,14 @@ $200-250
 
 
 ## Hardware Wiring Diagram:
-Various existing designs are available online for accelerometers with different types of accelerometers. In this project, each of the different proposed accelerometers will be wired to communicate with analog-to-digital converter and send data to Arduino, as depicted above. As data is recorded it will be displayed on the LCD screen.
+- [ ] For simultineous control
+- [ ] For delayed individual control
 
-![Main station](/../main/images/main.png)
-Main data station
-![remote station](/../main/images/remote.png)
-Remote data station
+
 
 ## Materials list:
-- LIS3DH accelerometer (2) - $ 4.99/ea
+- Arduino Mega 2560 + Arduino W5100 ethernet shield - $ 39.99+ $20 =  $59.99
 ![accel](/../main/Prototype_photos/1.jpg) 
-- LCD screen – $ 34.99​
-![LCD](/../main/images/TFTLCD.jpg)
 - Arduino UNO - $ 24.99
 ![UNO](/../main/images/UNO.jpeg)
 - Arduino Mega 2560 - $ 39.99
