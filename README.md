@@ -51,12 +51,5 @@ $200-250
 ![megashield](/../main/Prototype_photos/1.jpg) 
 - Relay Switch with 8 channel - $ 8.99
 ![relay](/../main/Prototype_photos/5.jpg)
-- Arduino Mega 2560 - $ 39.99
-![Mega](/../main/images/Mega.jpg)
-- ADS1115(2) - $ 4.99/ea
-![ADS](/../main/images/adc.jpg)
-- Arduino W5100 ethernet shield - $ 20.99
-![w5100](/../main/images/w5100.jpg)
-- 32 GB microSD card - $ 9.99
-![SD](/../main/images/SD.jpg)
-
+- 12V battery supply - $ 30.99
+![12V](/../main/Prototype_photos/4.jpg)
