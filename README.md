@@ -53,3 +53,5 @@ $200-250
 ![relay](/../main/Prototype_photos/5.jpg)
 - 12V battery supply - $ 30.99
 ![12V](/../main/Prototype_photos/4.jpg)
+- PVC pipe, joint, connectors, valves  estimated $80
+![12V](/../main/Prototype_photos/7.jpg)
