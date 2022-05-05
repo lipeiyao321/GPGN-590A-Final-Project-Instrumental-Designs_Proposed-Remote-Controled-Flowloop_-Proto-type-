@@ -1,4 +1,4 @@
-# GPGN-590A-Final-Project-Instrumental-Designs_Proposed-Remote-Controled-Flowloop_-Proto-type-
+# GPGN-590A-Final-Project-Instrumental-Designs_Proposed-Remote-Controled-Flowloop_Proto-type
 # Final-Project-Instrumental-Designs-GPGN-590A
 
 ##Geoscience Motivation:
