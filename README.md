@@ -1,6 +1,6 @@
 # GPGN-590A-Final-Project-Instrumental-Designs_Proposed-Remote-Controled-Flowloop_Proto-type
-# Final-Project-Instrumental-Designs-GPGN-590A
-# James Carmichael and Peiyao Li
+## Final-Project-Instrumental-Designs-GPGN-590A
+## James Carmichael and Peiyao Li
 
 ## Geoscience Motivation:
 The primary project, taking place at the Edgar Mines facility, aims to measure and monitor slug flow via Distributed Acoustic Sensing (DAS). DAS, a recent trending technology being used for pipeline quality evaluation. This technology offers continuous, real-time, and remote acquisition of data.  DAS is also quick to mobilize and install. In this case, DAS is used along, as well as coiled about a pipe, whereby allowing the monitoring of strain-rate and track the response to the propagation of the slug flow. This type of flow is a common-occurrence/phenomena in multi-phase hydrocarbon production and transportation in both vertical, as well as inclined wellbores. Detection can prevent both unnecessary costs and allow the assessment of wellbore casing or pipeline integrity.  This study potentially will reshape multiple disciplines and applications, from oil and gas pipelines, various facilities, to civil engineering infrastructure projects. 
