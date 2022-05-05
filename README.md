@@ -49,8 +49,8 @@ $200-250
 ## Materials list:
 - Arduino Mega 2560 + Arduino W5100 ethernet shield - $ 39.99+ $20 =  $59.99
 ![megashield](/../main/Prototype_photos/1.jpg) 
-- Arduino UNO - $ 24.99
-![UNO](/../main/images/UNO.jpeg)
+- Relay Switch with 8 channel - $ 8.99
+![relay](/../main/Prototype_photos/5.jpg)
 - Arduino Mega 2560 - $ 39.99
 ![Mega](/../main/images/Mega.jpg)
 - ADS1115(2) - $ 4.99/ea
