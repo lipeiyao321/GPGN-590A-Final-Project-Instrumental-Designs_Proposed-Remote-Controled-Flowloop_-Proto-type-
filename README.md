@@ -44,7 +44,7 @@ $200-250
 - [ ] Different type of smart valve for different flow regime
 - [ ] More complicated loop design to include other fluid phases( i.e. air or mineral oil etc)
 - [ ] More powerful pumps
-- [ ] Quantitaive data acqusition tools such as (Distributed Acoustic Sensing, pressure gauges, flow meter etc.)
+- [ ] Quantitative data acqusition tools such as (Distributed Acoustic Sensing, pressure gauges, flow meter etc.)
 
 ## Caution:
 ### Pressure concerns
