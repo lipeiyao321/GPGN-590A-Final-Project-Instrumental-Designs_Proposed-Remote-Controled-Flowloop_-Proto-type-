@@ -42,9 +42,9 @@ $200-250
 
 ## Hardware Wiring Diagram:
 - [ ] For simultineous control
-![simul](/../main/simul.jpg)
+![simul](/../main/simul.JPG)
 - [ ] For delayed individual control
-![delay](/../main/delay.jpg)
+![delay](/../main/delay.JPG)
 
 
 
