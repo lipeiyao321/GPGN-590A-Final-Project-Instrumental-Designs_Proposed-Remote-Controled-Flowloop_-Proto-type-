@@ -39,6 +39,17 @@ $200-250
 - [ ] More powerful pumps
 - [ ] Quantitaive data acqusition tools such as (Distributed Acoustic Sensing, pressure gauges, flow meter etc.)
 
+## Caution:
+# Pressure concerns
+- [ ] Due to the lack of paste, the pressure of the pump and concerns over loose wires everywhere, now we have all valves set to all turn on or off simultaneously.
+- [ ] Future work would be modify the construction, use paste and reorganize wires to allow testing of higher pressures
+- [ ] Additionally, even smarter valves that allow varying flow rate and pressures to build
+# Electrical hazards
+- [ ] As mentioned, the wires are a concern
+  - [ ] After the move, even one professor requested we push back the power extension further from water reservoir
+  - [ ] Relocation did allow for battery to be on a different “plane” than pipe network so less concern of water and main power source interacting
+
+
 
 ## Hardware Wiring Diagram:
 - [ ] For simultineous control
@@ -57,3 +68,5 @@ $200-250
 ![12V](/../main/Prototype_photos/4.jpg)
 - PVC pipe, joint, connectors, valves  estimated $80
 ![12V](/../main/Prototype_photos/7.jpg)
+
+
