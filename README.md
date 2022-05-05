@@ -22,25 +22,23 @@ The initial project testing consists first to run various tests within the confi
 ## Cost: 
 $200-250
 
-## Implementation plan:
-- [X] Network (loop) of pvc pipes; straight pipes cut to various different lengths, joints, connectors 
-- [X] a water-filled reservoir tank
-- [X] a sufficiently powerful pump (based on the spec of the valve)
-- [X] inclusion of those smart valves - driven/controlled by voltage signal; alternatively could be replaced the concept of servo control manual valves (only open and close)
-- [X] necessary wiring (wiring diagrams as examples provided reference)
-- [X] ample power (correctly positioned/wired within larger circuit, to ensure no impact on programmable logic board
-- [X] 8-switch relay board, ensured comment above covered; substituted for the need of shift register from proposal 
-- [X] Arduino Mega 2560 programmable logic board
-- [X] -	Arduino Ethernet/LAN Shield
+## Implementation plan (material check):
+- [ ] Network (loop) of pvc pipes; straight pipes cut to various different lengths, joints, connectors 
+- [ ] A water-filled reservoir tank
+- [ ] A sufficiently powerful pump (based on the spec of the valve)
+- [ ] Inclusion of those smart valves - driven/controlled by voltage signal; alternatively could be replaced the concept of servo control manual valves (only open and close)
+- [ ] Necessary wiring (wiring diagrams as examples provided reference)
+- [ ] Ample power (correctly positioned/wired within larger circuit, to ensure no impact on programmable logic board
+- [ ] 8-switch relay board, ensured comment above covered; substituted for the need of shift register from proposal 
+- [ ] Arduino Mega 2560 programmable logic board
+- [ ] Arduino Ethernet/LAN Shield
 
 ## Possible additional elements: 
-- [X] External SD storage for extended recording
-- [X] Set up secondary station to record data independently from main station
-- [ ] Develop wireless capability by utilizing either RF/wireless receiver and  MMS – 10-Axis IMU
-- [ ] Expand array to multiple in-line transmitters that communicate with the single receiver
-- [ ] Develop array to have in-line transmitters with connected transmitters that transfer data from other and relay to the main receiver
-- [X] Expanded LCD capability to larger screens that can show multiple lines of data at once
-- 
+- [ ] Different type of smart valve for different flow regime
+- [ ] More complicated loop design to include other fluid phases( i.e. air or mineral oil etc)
+- [ ] More powerful pumps
+- [ ] Quantitaive data acqusition tools such as (Distributed Acoustic Sensing, pressure gauges, flow meter etc.)
+
 
 ## Hardware Wiring Diagram:
 Various existing designs are available online for accelerometers with different types of accelerometers. In this project, each of the different proposed accelerometers will be wired to communicate with analog-to-digital converter and send data to Arduino, as depicted above. As data is recorded it will be displayed on the LCD screen.
