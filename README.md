@@ -50,7 +50,7 @@ Remote data station
 
 ## Materials list:
 - LIS3DH accelerometer (2) - $ 4.99/ea
-![accel](/../main/Prototype photos/1-Arduino with LAN,CAT shield,cable.jpg) 
+![accel](/../main/Prototype_photos/1.jpg) 
 - LCD screen – $ 34.99​
 ![LCD](/../main/images/TFTLCD.jpg)
 - Arduino UNO - $ 24.99
