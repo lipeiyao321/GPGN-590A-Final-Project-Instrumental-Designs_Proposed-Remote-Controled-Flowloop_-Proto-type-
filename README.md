@@ -48,7 +48,7 @@ $200-250
 
 ## Materials list:
 - Arduino Mega 2560 + Arduino W5100 ethernet shield - $ 39.99+ $20 =  $59.99
-![accel](/../main/Prototype_photos/1.jpg) 
+(/../main/Prototype_photos/1.jpg) 
 - Arduino UNO - $ 24.99
 ![UNO](/../main/images/UNO.jpeg)
 - Arduino Mega 2560 - $ 39.99
